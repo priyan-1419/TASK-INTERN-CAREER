@@ -18,6 +18,7 @@ To get started, clone this repository to your local machine and explore the data
 Welcome to the Global Terrorism Analysis repository! This repository serves as a comprehensive resource for studying and analyzing global terrorism incidents.
 
 ## Output:
+![Output](https://github.com/priyan-1419/TASK-INTERN-CAREER/blob/main/Global_terrorirsm.png)
 
 ### How to Contribute
 Contributions are welcome and encouraged! Whether you're a data scientist, developer, or domain expert, you can contribute to this repository by:
